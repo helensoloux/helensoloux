@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-<img src=“/images/bunny.gif”/>
+<img src="/images/bunny.gif" height="100px" />
 
 <!--
 **helensoloux/helensoloux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
